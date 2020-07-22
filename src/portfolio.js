@@ -269,7 +269,7 @@ const degrees = {
       descriptions: [
 		"⚡ Studying under the school's technology focused ITA program",
 		"⚡ Officer in Computer Science Club and Bring Change to Mind Club",
-		"⚡ JV Soccer"
+		"⚡ Soccer Team"
        
       ],
       website_link: "https://ihs-fusd-ca.schoolloop.com/"
