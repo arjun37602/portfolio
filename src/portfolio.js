@@ -14,7 +14,7 @@ const greeting = {
 	subTitle:
 		"A passionate high schooler striving to make a tangible impact on society using the wonders of technology",
 	resumeLink:
-		"https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+		"https://linkedin.com/arjun-balaji",
 	portfolio_repository: "https://github.com/arjun37602",
 };
 
@@ -67,7 +67,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive websites using React, Django, Html, CSS, and JavaScript ",
-        "⚡ Developing mobile applications using Flutter, React Native, Java (Android Studio), Python (PyQt) ",
+        "⚡ Developing mobile applications using React Native, Java (Android Studio), Python (PyQt) ",
         "⚡ Creating application backend in Node, Express, Flask, and Java"
       ],
       softwareSkills: [
@@ -127,15 +127,9 @@ const skills = {
           style: {
             color: "#2C8EBB"
           }
-        },
-      
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B"
-          }
         }
+      
+      
       ]
     },
     {
@@ -420,25 +414,25 @@ const contactPageData = {
 		title: "Contact Me",
 		profile_image_path: "animated_ashutosh.png",
 		description:
-			"I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+			"Feel free to reach out to me for any questions or concerns. YOu can find me on almost any form of social media :)",
 	},
 	blogSection: {
 		title: "Blogs",
 		subtitle:
-			"For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-		link: "https://ashutoshhathidara.wordpress.com",
+			"For individual fundamental empowerment, I like to write powerful lessons that create impact on each reader individually to change the core of their character.",
+		link: "https://medium.com",
 		avatar_image_path: "blogs_image.svg",
 	},
 	addressSection: {
-		title: "Address",
+		title: "Github",
 		subtitle:
-			"Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+			"arjun37602",
 		avatar_image_path: "address_image.svg",
-		location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+		location_map_link: "https://github.com/arjun37602",
 	},
 	phoneSection: {
-		title: "Phone Number",
-		subtitle: "+91 8320758513",
+		title: "Email",
+		subtitle: "arjun37602@gmail.com",
 	},
 };
 
