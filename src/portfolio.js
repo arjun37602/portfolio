@@ -8,25 +8,22 @@ const settings = {
 
 //Home Page
 const greeting = {
-	title: "Ashutosh Hathidara",
-	logo_name: "AshutoshHathidara",
-	nickname: "layman_brother",
+	title: "Arjun Balaji",
+	logo_name: "ArjunBalaji",
+	nickname: "arjun37602",
 	subTitle:
 		"A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
 	resumeLink:
 		"https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-	portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+	portfolio_repository: "https://github.com/arjun37602",
 };
 
 const socialMediaLinks = {
 	/* Your Social Media Link */
-	github: "https://github.com/ashutosh1919",
-	linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-	gmail: "ashutoshhathidara98@gmail.com",
-	gitlab: "https://gitlab.com/ashutoshhathidara98",
-	facebook: "https://www.facebook.com/laymanbrother.19/",
-	twitter: "https://twitter.com/ashutosh_1919",
-	instagram: "https://www.instagram.com/layman_brother/"
+	github: "https://github.com/arjun376029",
+	linkedin: "https://www.linkedin.com/in/arjun-balaji/",
+	gmail: "arjun37602@gmail.com",
+	instagram: "https://www.instagram.com/"
 };
 
 const skills = {
@@ -36,8 +33,8 @@ const skills = {
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis"
+        "⚡ Experience of working with Computer Vision and Statistical Data Analysis Projects",
+        "⚡ Skilled at predicting, modelling, and analyzing data in an accurate manner"
       ],
       softwareSkills: [
         {
@@ -47,14 +44,7 @@ const skills = {
             backgroundColor: "transparent"
           }
         },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000"
-          }
-        },
+        
         {
           skillName: "PyTorch",
           fontAwesomeClassname: "logos-pytorch",
@@ -76,9 +66,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask"
+        "⚡ Building resposive websites using React, Django, Html, CSS, and JavaScript ",
+        "⚡ Developing mobile applications using Flutter, React Native, Java (Android Studio), Python (PyQt) ",
+        "⚡ Creating application backend in Node, Express, Flask, and Java"
       ],
       softwareSkills: [
         {
@@ -96,8 +86,8 @@ const skills = {
           }
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
+          skillName: "Java",
+          fontAwesomeClassname: "simple-icons:java",
           style: {
             color: "#CC6699"
           }
@@ -125,26 +115,20 @@ const skills = {
           }
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "Python",
+          fontAwesomeClassname: "simple-icons:python",
           style: {
             color: "#CB3837"
           }
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
+          skillName: "Django",
+          fontAwesomeClassname: "simple-icons:django",
           style: {
             color: "#2C8EBB"
           }
         },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399"
-          }
-        },
+      
         {
           skillName: "Flutter",
           fontAwesomeClassname: "simple-icons:flutter",
@@ -155,22 +139,15 @@ const skills = {
       ]
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Cloud",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
         "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS"
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4"
-          }
-        },
+       
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -178,13 +155,7 @@ const skills = {
             color: "#FF9900"
           }
         },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6"
-          }
-        },
+       
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -192,13 +163,7 @@ const skills = {
             color: "#FFCA28"
           }
         },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791"
-          }
-        },
+       
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -206,20 +171,8 @@ const skills = {
             color: "#47A248"
           }
         },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6"
-          }
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5"
-          }
-        }
+       
+       
       ]
     },
     {
@@ -238,23 +191,17 @@ const skills = {
             color: "#FF2BC2"
           }
         },
+        
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E"
-          }
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          skillName: "Adobe Photoshop",
+          fontAwesomeClassname: "simple-icons:adobephotoshop",
           style: {
             color: "#FF7C00"
           }
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
+          skillName: "Canva",
+          fontAwesomeClassname: "simple-icons:canva",
           style: {
             color: "#000000"
           }
@@ -274,7 +221,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866"
       },
-      profileLink: "https://www.hackerrank.com/layman_brother"
+     
     },
     {
       siteName: "Codechef",
@@ -282,7 +229,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638"
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919"
+      
     },
     {
       siteName: "Codeforces",
@@ -290,7 +237,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB"
       },
-      profileLink: "http://codeforces.com/profile/layman_brother"
+     
     },
     {
       siteName: "Hackerearth",
@@ -298,7 +245,7 @@ const competitiveSites = {
       style: {
         color: "#323754"
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391"
+     
     },
     {
       siteName: "Kaggle",
@@ -306,7 +253,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF"
       },
-      profileLink: "https://www.kaggle.com/laymanbrother"
+      
     }
   ]
 }
@@ -314,11 +261,11 @@ const competitiveSites = {
 const degrees = {
   degrees : [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
+      title: "Irvington High School",
+      subtitle: "High School Diploma",
       logo_path: "iiitk_logo.png",
       alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      duration: "2018 - Present",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
