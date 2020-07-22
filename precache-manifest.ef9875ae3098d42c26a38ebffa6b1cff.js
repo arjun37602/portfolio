@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bde2142c018cf4f5a89bdb9854245736",
+    "revision": "ba1e4a3997a831e217f04279fbb7e762",
     "url": "/masterPortfolio/index.html"
   },
   {
-    "revision": "f9c07a841f13acfd4597",
-    "url": "/masterPortfolio/static/css/main.0049dcd2.chunk.css"
+    "revision": "3d11fd9db98bf31dbae7",
+    "url": "/masterPortfolio/static/css/main.3ce9a76b.chunk.css"
   },
   {
-    "revision": "07fd977e8185454642c9",
-    "url": "/masterPortfolio/static/js/2.38a5aa2d.chunk.js"
+    "revision": "b0dcbaf1c72649271d9c",
+    "url": "/masterPortfolio/static/js/2.cccf416f.chunk.js"
   },
   {
-    "revision": "f9c07a841f13acfd4597",
-    "url": "/masterPortfolio/static/js/main.6720156e.chunk.js"
+    "revision": "3d11fd9db98bf31dbae7",
+    "url": "/masterPortfolio/static/js/main.8b6c6cc0.chunk.js"
   },
   {
     "revision": "f47f73f142593633725d",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7a9b2eb087350abacd2587dd578226c7",
     "url": "/masterPortfolio/static/media/deeplearning_ai_logo.7a9b2eb0.png"
+  },
+  {
+    "revision": "53b452c443b6136815850b501a7fd1d3",
+    "url": "/masterPortfolio/static/media/delhivery_logo.53b452c4.png"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
@@ -188,6 +192,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/masterPortfolio/static/media/googleAssistant.c24ba791.svg"
   },
   {
+    "revision": "6c7e150c9c034071aefc1e4f014cd442",
+    "url": "/masterPortfolio/static/media/google_logo.6c7e150c.png"
+  },
+  {
     "revision": "6d325fec19fe3b6b169d9012f9a1dfb9",
     "url": "/masterPortfolio/static/media/ibm_logo.6d325fec.png"
   },
@@ -204,12 +212,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/masterPortfolio/static/media/jsFramework.b05ae5b5.svg"
   },
   {
-    "revision": "4ba886bafb9ff0a5b71b800c47f45d90",
-    "url": "/masterPortfolio/static/media/legato_logo.4ba886ba.png"
+    "revision": "7b9ba9c3a8a7c7ef22ba410e43d2992b",
+    "url": "/masterPortfolio/static/media/legato_logo.7b9ba9c3.png"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/masterPortfolio/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "cf179a3c716621f27636709732cb644e",
+    "url": "/masterPortfolio/static/media/mich.cf179a3c.jpg"
+  },
+  {
+    "revision": "5d6cc11f4eada400489fe0f098d5dee8",
+    "url": "/masterPortfolio/static/media/microsoft_logo.5d6cc11f.png"
+  },
+  {
+    "revision": "1bf5e3f76ed7c1df279ebf0324b5d7ab",
+    "url": "/masterPortfolio/static/media/mozilla_logo.1bf5e3f7.png"
   },
   {
     "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
