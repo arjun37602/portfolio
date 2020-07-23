@@ -412,7 +412,7 @@ const projectsHeader = {
 const contactPageData = {
 	contactSection: {
 		title: "Contact Me",
-		profile_image_path: "animated_ashutosh.png",
+		profile_image_path: "circle-cropped.v1.png",
 		description:
 			"Feel free to reach out to me for any questions or concerns. YOu can find me on almost any form of social media :)",
 	},
@@ -428,7 +428,6 @@ const contactPageData = {
 		subtitle:
 			"arjun37602",
 		avatar_image_path: "address_image.svg",
-		location_map_link: "https://github.com/arjun37602",
 	},
 	phoneSection: {
 		title: "Email",
