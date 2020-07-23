@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.d96ed9a5.chunk.css",
-    "main.js": "/portfolio/static/js/main.f7fcc781.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.f7fcc781.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.c249650f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c249650f.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a1181b69.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a1181b69.js.map",
-    "static/js/2.7f9b27ef.chunk.js": "/portfolio/static/js/2.7f9b27ef.chunk.js",
-    "static/js/2.7f9b27ef.chunk.js.map": "/portfolio/static/js/2.7f9b27ef.chunk.js.map",
+    "static/js/2.3fd41a5a.chunk.js": "/portfolio/static/js/2.3fd41a5a.chunk.js",
+    "static/js/2.3fd41a5a.chunk.js.map": "/portfolio/static/js/2.3fd41a5a.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.93e93b982b2457519834aa8bf52596bc.js": "/portfolio/precache-manifest.93e93b982b2457519834aa8bf52596bc.js",
+    "precache-manifest.2fce32efc44c84684fcea1c0bf374266.js": "/portfolio/precache-manifest.2fce32efc44c84684fcea1c0bf374266.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.d96ed9a5.chunk.css.map": "/portfolio/static/css/main.d96ed9a5.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -17,6 +17,7 @@
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.6c8410d0.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.a633be2f.svg",
     "static/media/blogs_image.svg": "/portfolio/static/media/blogs_image.b6b12c7d.svg",
+    "static/media/circle-cropped.v1.png": "/portfolio/static/media/circle-cropped.v1.01058605.png",
     "static/media/cloud_infrastructure.svg": "/portfolio/static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "/portfolio/static/media/codeInLogo.b3685be8.png",
     "static/media/contactMail.png": "/portfolio/static/media/contactMail.d6d4086f.png",
@@ -57,8 +58,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a1181b69.js",
-    "static/js/2.7f9b27ef.chunk.js",
+    "static/js/2.3fd41a5a.chunk.js",
     "static/css/main.d96ed9a5.chunk.css",
-    "static/js/main.f7fcc781.chunk.js"
+    "static/js/main.c249650f.chunk.js"
   ]
 }
