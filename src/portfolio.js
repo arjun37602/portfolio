@@ -261,7 +261,8 @@ const degrees = {
       alt_name: "",
       duration: "2018 - Present",
       descriptions: [
-		"⚡ Studying under the school's technology focused ITA program",
+    "⚡ Studying under the school's technology focused ITA program",
+    "⚡ President of Hack Club",
 		"⚡ Officer in Computer Science Club and Bring Change to Mind Club",
 		"⚡ Soccer Team"
        
