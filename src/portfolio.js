@@ -261,10 +261,10 @@ const degrees = {
       alt_name: "",
       duration: "2018 - Present",
       descriptions: [
-    "⚡ Studying under the school's technology focused ITA program",
-    "⚡ President of Hack Club",
+    "⚡ President of Irvington Hack Club",
 		"⚡ Officer in Computer Science Club and Bring Change to Mind Club",
-		"⚡ Soccer Team"
+    "⚡ JV Soccer Team (10th and 11th)",
+    "⚡ AP Classes and Dual Enrollment: AP Computer Science A, AP Biology, AP US History, AP English Language and Composition, AP Statistics, Microeconomics, Macroeconomics, Digital Photography, Spanish 3, and Entrepreneurship "
        
       ],
       website_link: "https://ihs-fusd-ca.schoolloop.com/"
@@ -373,7 +373,7 @@ const experience = {
 					color: "#4285F4",
 				},
 				{
-					title: "California President",
+					title: "California Chapter President and Lead Researcher",
 					company: "HelyxInitiative",
 					company_url: "https://helyx.science/",
 					logo_path: "microsoft_logo.png",
@@ -384,7 +384,7 @@ const experience = {
 					color: "#D83B01",
 				},
 				{
-					title: "Chapter Prezi",
+					title: "Chapter President",
 					company: "Engage STEM",
 					company_url: "https://www.engagestem.org/",
 					logo_path: "mozilla_logo.png",
@@ -392,6 +392,17 @@ const experience = {
 					location: "Mountain View, CA",
 					description:
 						"Managed chapter members and created mobile apps and websites for non-profits for free of cost.",
+					color: "#000000",
+        },
+        {
+					title: "Executive Director of Technology",
+					company: "Epsilon Hacks",
+					company_url: "https://epsilonhacks.com/",
+					logo_path: "epsilon.jpg",
+					duration: "September 2019 - June 2020",
+					location: "Mountain View, CA",
+					description:
+						"Responsible for developing the website and managed the technology team with an emphasis on creating social impact, utilizing digital solutions to mobilize social change.",
 					color: "#000000",
 				},
 				
@@ -413,7 +424,7 @@ const projectsHeader = {
 const contactPageData = {
 	contactSection: {
 		title: "Contact Me",
-		profile_image_path: "circle-cropped.v1.png",
+		profile_image_path: "circle-cropped.png",
 		description:
 			"Feel free to reach out to me for any questions or concerns. YOu can find me on almost any form of social media :)",
 	},
